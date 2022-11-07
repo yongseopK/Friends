@@ -19,7 +19,7 @@ struct Response: Codable {
     }
 }
 
-//API 요청을 담달할 구조체
+//API 요청을 담달할 구조체//
 struct Request {
     
     // MARK: -Private Properties
